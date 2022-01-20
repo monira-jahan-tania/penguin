@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&family=Oswald&family=Playfair+Display&display=swap');
+
+body, header, section{
+    font-family:  'Oswald', sans-serif;
+}
+
+.intro-left{
+    width: 50%;
+}
+.intro-left h1{
+    font-size: 60px;
+    text-transform:uppercase;
+    font-weight:700 ;
+}
+.intro-left h1{
+    color: goldenrod;
+}
+.intro-left .winter{
+    color: rgb(2, 2, 48);
+}
+.intro-left p{
+    color: rgb(59, 59, 57);
+}
+.intro-left button, .card button{
+    background-color: rgb(98, 165, 12);
+    font-weight: 600;
+    color: honeydew;
+}
+
+.container p{
+    color: rgb(59, 59, 57);;
+}
+.foot{
+    padding-top: 30px;
+    padding-bottom: 100px;
+}
+.container.foot{
+   padding-top: 10%;
+   padding-bottom: 15%;
+}
